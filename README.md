@@ -19,4 +19,4 @@ Colocamos como objetivo o desenvolvimento de uma interface moderna identificada 
 - SEO
 
 # Link do portfólio
-electronseg.com
+https://electronseg.com/
